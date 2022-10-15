@@ -16,7 +16,7 @@ void setup() {
   tft.println("KAZAWAN");                  //显示文字
   
   
-  Serial.begin(115200);
+  
   
 }
 void loop() {
